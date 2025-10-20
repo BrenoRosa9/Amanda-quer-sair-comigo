@@ -1,7 +1,7 @@
 {
   "name": "amanda-invite",
   "version": "1.0.0",
-  "description": "Convite fofo para a Amanda 💖",
+  "description": "Convite para a Amanda",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
